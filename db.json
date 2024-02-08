@@ -1,5 +1,6 @@
 [
- "pizzas": {
+ "pizzas":[ 
+ {
     "id": 1,
     "name": "Margherita",
     "restaurant": "Pizza Paradise"
