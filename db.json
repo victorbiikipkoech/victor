@@ -1,28 +1,30 @@
-[
- "pizzas": [ 
- {
-    "id": 1,
-    "name": "Margherita",
-    "restaurant": "Pizza Paradise"
-  },
-  {
-    "id": 2,
-    "name": "Pepperoni",
-    "restaurant": "Pizza Palace"
-  },
-  {
-    "id": 3,
-    "name": "Vegetarian",
-    "restaurant": "Green Garden Pizzeria"
-  },
-  {
-    "id": 4,
-    "name": "BBQ Chicken",
-    "restaurant": "Smokehouse Pizzas"
-  },
-  {
-    "id": 5,
-    "name": "Supreme",
-    "restaurant": "Deluxe Pizzeria"
-  }
-]
+{
+  "pizzas": [
+    {
+      "id": 1,
+      "name": "Margherita",
+      "restaurant": "Pizza Paradise"
+    },
+    {
+      "id": 2,
+      "name": "Pepperoni",
+      "restaurant": "Pizza Palace"
+    },
+    {
+      "id": 3,
+      "name": "Vegetarian",
+      "restaurant": "Green Garden Pizzeria"
+    },
+    {
+      "id": 4,
+      "name": "BBQ Chicken",
+      "restaurant": "Smokehouse Pizzas"
+    },
+    {
+      "id": 5,
+      "name": "Supreme",
+      "restaurant": "Deluxe Pizzeria"
+    }
+  ]
+}
+
